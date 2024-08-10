@@ -26,7 +26,8 @@
   width: var(--uc-sidebar-width) !important;
   max-width: var(--uc-sidebar-width) !important;
   z-index:1;
-  margin-top: -73px;
+  /*removing top margin */
+  /*margin-top: -73px;*/
 }
 
 
