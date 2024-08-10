@@ -38,7 +38,7 @@
     /* @import url("./extensions/fix_hidden_bookmarks.css"); */
 
   /* hide sidebar switcher */
-    /* @import url("./extensions/hide_sidebar_switcher.css"); */
+    @import url("./extensions/hide_sidebar_switcher.css");
 
 /* END EXTENSIONS ========================================================== */
 
