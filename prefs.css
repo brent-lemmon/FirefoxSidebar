@@ -42,8 +42,8 @@
       Defaults: --csd-right: 0px; --csd-margin-right: 95px;
     */ 
 
-      --csd-right: 36px;
-      --csd-margin-right: 130px;
+      --csd-right: 0px;
+      --csd-margin-right: 0px;
 
   /* === END: Window Control / Client Side Display Settings === */
 
